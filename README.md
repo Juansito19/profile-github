@@ -24,13 +24,13 @@
 <hr>
 <h1>Tools I use! 🛠️</h1>
 <hr>
-<a href => <img width ='50px' align ="left" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' alt="REACT"></a>
-<a href => <img width ='50px' align ="left" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg' alt="C"></a>
-<a href => <img width ='50px' align ="left" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' alt="Java Script"></a>
-<a href => <img width ='50px' align ="left" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg' alt="MySQL"></a>
-<a href => <img width ='50px' align ="left" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg' alt="CSS"></a>
-<a href => <img width ='50px' align ="left" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg' alt="HTML"></a>
-<a href => <img width ='50px' align ="left" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg' alt="NodeJS"></a>
+<a href => <img width ='50px' align ="left" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' title="REACT"></a>
+<a href => <img width ='50px' align ="left" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg' title="C"></a>
+<a href => <img width ='50px' align ="left" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' title="Java Script"></a>
+<a href => <img width ='50px' align ="left" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg' title="MySQL"></a>
+<a href => <img width ='50px' align ="left" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg' title="CSS"></a>
+<a href => <img width ='50px' align ="left" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg' title="HTML"></a>
+<a href => <img width ='50px' align ="left" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg' title="NodeJS"></a>
 <Br></br>
 <hr>
 <p align = "center">
